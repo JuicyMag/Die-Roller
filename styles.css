@@ -1,0 +1,28 @@
+.btn{
+  background-color: goldenrod;
+  display: block;
+  text-align: center;
+  width: 130px;
+  border-radius: 2cm;
+}
+
+.label{
+  background-color: rgb(211, 117, 17);
+  display: block;
+  width: 65px;
+  text-align: center;
+  border-radius: 2cm;
+}
+#xlabel{
+  background-color: aqua;
+  
+}
+
+#ylabel{
+  background-color: rosybrown;
+;
+}
+
+#zlabel{
+
+} 
